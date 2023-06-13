@@ -1,0 +1,91 @@
+Introduction to the Numpy and Pandas and Matplotlib
+
+#Numpy:
+
+->Numpy is the fundamental package for scientific computing in the Python
+->Numpy is a python library that provides a multidimensional array object, various derived objects
+
+#Numpy Array:
+
+->An array is a grid of values ana it contains information about the raw data,how to locate an element, and how to interpret an element
+->There are different types of the array that are as follows:
+    ->1D Array
+    ->2D Array
+    ->3D Array
+    ->Multidimensional Array
+
+#Numpy vs Python List:
+
+->Consumes less memory
+->fast as compared to the python List
+->Convenient to use
+
+Installation Numpy:
+->pip install Numpy
+
+Import Numpy:
+->Import numpy as np
+
+#Special Numpy Array:
+
+->Array filled with 0'scientific
+->Array filled with 1'scientific
+->Create an empty array
+->An Array with a range of elements
+->Array diagonal element filled with 1'scientific
+->Create an array with values that are spaced linearly in a specfied interval
+
+#Create Numpy Arrays with Random Numbers
+
+->rand()
+    the function is used to generate a random value between 0 to 1.
+->randn()
+    the function is used to generate a random value close to zero. This may return positive or negative numbers as well.
+->ranf()
+    the function for doing random sampling in numpy. it returns an array of specified shape and fills it with random floats in the half open interval [0.0,1.0)
+->randint()
+    the function is used to generate a random number between the given range        
+
+#Datatypes in Numpy Array
+
+->int8
+->int16
+->int32
+->int64
+->float8
+->float16
+->float32
+->boolean
+->unsigned
+
+#Arthmetic Operations in the Numpy Arrays
+
+->Addtion
+->Subtraction
+->Divison
+->Module Divison
+->Reciprocal
+
+
+#Arthmetic Functions in Numpy Arrays
+
+->np.min(x)
+->np.max(x)
+->np.argmin(x)
+->np.sqrt(x)
+->np.sin(x)
+->np.cos(x)
+->np.cumsum(x)
+
+#Shape and Reshaping in the Numpy Arrays
+
+->Shape 
+->Reshape
+
+#Indexing and Slicing in the Numpy Arrays
+
+->Indexing:
+    Indexing are in the pyhton which shows or which will knowin ght states of the elements in the Array
+
+->Slicing:
+    Slicing in the python is which is uses to get the data whcih is present in the array by using the indexing numbers and whcih can get the in between numbers by using the slicing
