@@ -7,7 +7,7 @@ Introduction to the Numpy and Pandas and Matplotlib
 
 #Numpy Array:
 
-->An array is a grid of values ana it contains information about the raw data,how to locate an element, and how to interpret an element
+->An array is a grid of values and it contains information about the raw data,how to locate an element, and how to interpret an element
 ->There are different types of the array that are as follows:
     ->1D Array
     ->2D Array
